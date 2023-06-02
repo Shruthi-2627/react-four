@@ -1,0 +1,35 @@
+.navstyle{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    gap: 33px;
+    margin-bottom: 33px;
+    font-size: 25px;
+    font-weight: bolder;
+    font-family: cursive;
+    font-style: italic;
+    background-color: blue;
+    
+}
+
+.hello1{
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline;
+ }
+ 
+.hello{
+   text-align: center;
+   font-style: italic;
+   font-weight: bold;
+}
+
+.hello2{
+    
+    width: 800px;
+    height: 400px;
+    margin-left: 20%;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
